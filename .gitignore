@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Sistem dosyalari
+.DS_Store
+Thumbs.db
